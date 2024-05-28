@@ -9,3 +9,15 @@ Key Components:
 3. **Positional Encoding:** Since transformers don't have a built-in sense of order like RNNs, positional encodings are added to the input embeddings to retain the order of words.
    
 5. **Encoder-Decoder Architecture:** Typically used for sequence-to-sequence tasks, where the encoder processes the input sequence and the decoder generates the output sequence.
+
+# Transformer Architecture
+**Encoder:**
+
+Input Embedding: Converts words into vectors.
+Positional Encoding: Adds information about the position of each word.
+Stack of Encoder Layers: Each layer has:
+Multi-Head Self-Attention
+Feed-Forward Neural Network
+Layer Normalization
+Decoder:
+Similar structure to the encoder but with an additional mechanism to attend to the encoder’s output.
