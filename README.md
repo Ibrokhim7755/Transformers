@@ -21,5 +21,8 @@ Key Components:
 Multi-Head Self-Attention
 Feed-Forward Neural Network
 Layer Normalization
-Decoder:
+
+
+**Decoder:**
+
 Similar structure to the encoder but with an additional mechanism to attend to the encoder’s output.
