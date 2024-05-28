@@ -13,9 +13,11 @@ Key Components:
 # Transformer Architecture
 **Encoder:**
 
-Input Embedding: Converts words into vectors.
-Positional Encoding: Adds information about the position of each word.
-Stack of Encoder Layers: Each layer has:
+1. **Input Embedding:** Converts words into vectors.
+
+2. **Positional Encoding:** Adds information about the position of each word.
+   
+3. **Stack of Encoder Layers:** Each layer has:
 Multi-Head Self-Attention
 Feed-Forward Neural Network
 Layer Normalization
