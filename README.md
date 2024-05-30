@@ -20,7 +20,7 @@ Key Components:
 3. **Stack of Encoder Layers:** Each layer has:
 Multi-Head Self-Attention
 Feed-Forward Neural Network
-Layer Normalization
+Layer Normalization.
 
 
 **Decoder!:**
