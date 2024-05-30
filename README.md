@@ -10,7 +10,7 @@ Key Components:
    
 5. **Encoder-Decoder Architecture:** Typically used for sequence-to-sequence tasks, where the encoder processes the input sequence and the decoder generates the output sequence.
 
-# Transformer Architecture
+# Transformer Architecture!
 **Encoder:**
 
 1. **Input Embedding:** Converts words into vectors.
